@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied and Interdisciplinary Mathematics, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Physics, Harvey Mudd College, 2023
+
+
 
 Work experience
 ======
