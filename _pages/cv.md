@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied and Interdisciplinary Mathematics, GitHub University, 2018 (expected)
+* Ph.D in Applied and Interdisciplinary Mathematics, University of Michigan, 2028 (expected)
 * B.S. in Mathematics and Physics, Harvey Mudd College, 2023
 
 
