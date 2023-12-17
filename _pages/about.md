@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is my website. 
+Welcome to my page! I am a first-year Applied and Interdisciplinary Mathematics PhD student at the University of Michigan. For the past year or so, I have been fascinated by how small things move. 
+
+
+I was previously an undergraduate at [Harvey Mudd College] (https://www.hmc.edu/)   
 
 A data-driven personal website
 ======
