@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I am a first-year Applied and Interdisciplinary Mathematics PhD student and NSF Graduate Research Fellow at the University of Michigan. I have always been fascinated by how things move. For the past few years or so, I have been fascinated by motion of small things like cells, electrons, and synthetic particles. Before that, I tried to model larger things (like dolphin tails!). Large or small, the things I study usually move in fluids, and understanding these fluids is crucial to the research I do.    
+Welcome to my page! I am a third-year Applied and Interdisciplinary Mathematics PhD student and NSF Graduate Research Fellow at the University of Michigan. I have always been fascinated by how things move. For the past few years or so, I have been fascinated by motion of small things like cells, electrons, and synthetic particles. Before that, I tried to model larger things (like dolphin tails!). Large or small, the things I study usually move in fluids, and understanding these fluids is crucial to the research I do.    
 
 I was previously an undergraduate at [Harvey Mudd College](https://www.hmc.edu/) in sunny Southern California, where I studied mathematics and physics (and a little Spanish). I was fortunate to be a part of summer research programs (REUs) at [IUPUI](https://science.iupui.edu/about/science-stories/stories/2021-07-06-mathematical-sciences-hosts-summer-research-experience-for-undergraduates.html) in 2021 and at the [University of Maryland](https://www.math.umd.edu/~mariakc/REU2022.html) in 2022. 
 
@@ -25,6 +25,7 @@ Research Interests
 
 Upcoming Conferences
 ======
-- 2024 Joint Mathematics Meetings, San Francisco, CA
+- Graduate Student Mathematical Modeling Camp (GSMMC) 2025, Pomona, CA
+- Mathematical Problems in Industry (MPI) Workshop 2025, Claremont, CA
 
 
