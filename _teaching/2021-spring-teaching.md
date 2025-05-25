@@ -1,5 +1,5 @@
 ---
-title: "PHYS024 HM: Mechanics and Wave Motion, Spring 2021"
+title: "PHYS024 HM: Mechanics and Wave Motion (Spring 2021)"
 collection: teaching
 type: "Grader and Tutor"
 permalink: /teaching/2021-spring-teaching
