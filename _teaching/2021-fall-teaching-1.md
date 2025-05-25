@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
 venue: "Harvey Mudd College, Department of Physics"
-date: Fall 2021
+date: "Fall 2021"
 location: "Ann Arbor, MI"
 ---
 
