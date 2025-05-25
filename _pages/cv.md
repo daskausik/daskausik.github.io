@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied and Interdisciplinary Mathematics, University of Michigan, 2028 (expected)
+* Ph.D. in Applied and Interdisciplinary Mathematics, University of Michigan, 2028 (expected)
 * B.S. in Mathematics and Physics, Harvey Mudd College, 2023
 
 
@@ -30,12 +30,20 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages
+  * MATLAB
+  * Python
+  * MAPLE
+  * Mathematica
+* Libraries and tools
+  * Numpy
+  * Git
+  * chunkIE
+  * fmm3DBIE
+  * surfacefun
+* Technical software
+  * Solidworks
+  * SketchUp
 
 Publications
 ======
@@ -54,6 +62,26 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Honors and awards
+======
+* A.V. Flint Memorial Scholarship (Apr 2025)
+  * University of Michigan Department of Mathematics
+
+* Honored Instructor (Mar 2024) 
+  * University of Michigan Housing
+    
+* Chavin Prize (Feb 2024)
+  * Harvey Mudd College Department of Mathematics
+
+* Dean's List (Spring 2020 - Spring 2022, Spring 2023)
+  * Harvey Mudd College
+    
+* NSF Graduate Research Fellowship (Apr 2023)
+  * National Science Foundation (NSF)
+    
+* Robert James Prize (Sep 2020)
+  * Harvey Mudd College Department of Mathematics
   
 Service and leadership
 ======
