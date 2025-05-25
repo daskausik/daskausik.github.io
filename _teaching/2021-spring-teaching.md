@@ -4,7 +4,7 @@ collection: teaching
 type: "Grader and Tutor"
 permalink: /teaching/2021-spring-teaching
 venue: "Harvey Mudd College, Department of Physics"
-date: Spring 2021
+date: "Spring 2021"
 location: "Claremont, CA, USA"
 ---
 
